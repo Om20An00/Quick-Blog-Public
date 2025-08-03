@@ -1,6 +1,6 @@
 # 📝 Quick Blog - Full Stack Blogging Platform
 
-**Quick Blog** is a dynamic Full Stack Blog Application built using the **PERN stack** (PostgreSQL, Express.js, React.js, Node.js). It enables users to read, write, edit, and delete blog posts with ease. The platform includes modern UI design, secure backend APIs, and real-time blog management.
+**Quick Blog** is a dynamic Full Stack Blog Application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It enables users to read, write, edit, and delete blog posts with ease. The platform includes modern UI design, secure backend APIs, and real-time blog management.
 
 ![AI Blog Screenshot](https://raw.githubusercontent.com/Om20An00/Quick-Blog-Public/main/client/src/assets/1.png)
 
@@ -65,7 +65,7 @@
 ### Backend:
 - Node.js  
 - Express.js  
-- PostgreSQL  
+- MongoDB 
 
 ### Tools & DevOps:
 - Vite  
