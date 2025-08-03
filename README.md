@@ -2,7 +2,7 @@
 
 **Quick Blog** is a dynamic Full Stack Blog Application built using the **PERN stack** (PostgreSQL, Express.js, React.js, Node.js). It enables users to read, write, edit, and delete blog posts with ease. The platform includes modern UI design, secure backend APIs, and real-time blog management.
 
-![Quick Blog Banner](https://github.com/user-attachments/assets/6dbd9dae-bce4-4ed5-a7b3-13e761ec4003)
+![AI Blog Screenshot](https://raw.githubusercontent.com/Om20An00/Quick-Blog-Public/main/client/src/assets/1.png)
 
 
 ---
@@ -16,24 +16,27 @@
 ## 🖼️ Screenshots
 
 ### 🚪 Landing Page  
-<img width="1365" height="594" alt="image" src="https://github.com/user-attachments/assets/71a8df15-3798-4a93-8b9c-bec6f683720c" />
+![AI Blog Screenshot 2](https://raw.githubusercontent.com/Om20An00/Quick-Blog-Public/main/client/src/assets/2.png)
+
 
 ---
 
 ### ⚙️ Features Section  
-<img width="1365" height="558" alt="image" src="https://github.com/user-attachments/assets/ef087b32-e63d-49ed-8f11-77aee30b8dd7" />
+![AI Blog Screenshot 3](https://raw.githubusercontent.com/Om20An00/Quick-Blog-Public/main/client/src/assets/3.png)
+
 
 
 ---
 
 ### ⭐ Subscription  
-<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/832bfdd8-beab-4889-a991-6c3cbeab2946" />
+![AI Blog Screenshot 4](https://raw.githubusercontent.com/Om20An00/Quick-Blog-Public/main/client/src/assets/4.png)
 
 
 ---
 
 ### 💳 Login Page  
-<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/d53fba37-f6d5-45d0-9631-16507d44f9df" />
+![AI Blog Screenshot 5](https://raw.githubusercontent.com/Om20An00/Quick-Blog-Public/main/client/src/assets/5.png)
+
 
 
 ---
