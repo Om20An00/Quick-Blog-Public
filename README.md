@@ -78,9 +78,59 @@
 ## 📦 Installation & Setup
 
 ### 📥 Clone the Repositories
-
-git clone https://github.com/Om20An00/Quick-Blog-Public.git
-
+Clone both the frontend and backend repositories:
 ```bash
 git clone https://github.com/Om20An00/quickblog-frontend
 git clone https://github.com/Om20An00/quickblog-backend
+
+⚙️ Backend Setup
+Navigate to the backend folder:
+
+-cd quickblog-backend
+
+Install dependencies:
+
+-npm install
+-Create a .env file in the root of the backend directory and configure the following:
+
+
+-PORT=5000
+-MONGO_URI=your_mongodb_connection_string
+-JWT_SECRET=your_jwt_secret
+
+Start the backend server:
+
+-npm start
+The backend should now run on http://localhost:5000.
+
+🎨 Frontend Setup
+Navigate to the frontend folder:
+
+-cd ../quickblog-frontend
+
+Install dependencies:
+
+-npm install
+-Create a .env file in the root of the frontend directory and configure the following:
+
+-VITE_BACKEND_URL=http://localhost:5000
+
+Start the frontend development server:
+
+-npm run dev
+
+The frontend should now run on http://localhost:5173.
+
+🚀 Access the Application
+Open your browser and go to http://localhost:5173
+
+Register/Login to start creating and managing blog posts.
+
+🛠 Tech Stack
+-Frontend: React, Vite, TailwindCSS
+
+-Backend: Node.js, Express.js, MongoDB
+
+-Authentication: JWT (JSON Web Tokens)
+
+Deployed on Vercel.
