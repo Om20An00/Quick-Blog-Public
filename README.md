@@ -79,6 +79,8 @@
 
 ### 📥 Clone the Repositories
 
+git clone https://github.com/Om20An00/Quick-Blog-Public.git
+
 ```bash
-git clone https://github.com/yourusername/quickblog-frontend
-git clone https://github.com/yourusername/quickblog-backend
+git clone https://github.com/Om20An00/quickblog-frontend
+git clone https://github.com/Om20An00/quickblog-backend
