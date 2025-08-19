@@ -28,7 +28,7 @@
 
 ---
 
-### ⭐ Subscription  
+### ⭐ Comment Section 
 ![AI Blog Screenshot 4](https://raw.githubusercontent.com/Om20An00/Quick-Blog-Public/main/client/src/assets/4.png)
 
 
